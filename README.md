@@ -44,7 +44,7 @@ With the rise of single-page applications (SPAs) and JavaScript frameworks like 
 To run the project locally, follow these steps:
 
 1. Ensure that you have Node.js and npm installed on your machine.
-2. Clone the project repository from [GitHub](<(https://github.com/Muhaammad-Nazir4/DataFetchingUsingAjex.git)>).
+2. Clone the project repository from [GitHub](<https://github.com/Muhaammad-Nazir4/DataFetchingUsingAjex.git>).
 3. Open a terminal and navigate to the project directory.
 4. Run `npm install` to install project dependencies.
 5. After the installation is complete, run `npm start` to start the development server.
